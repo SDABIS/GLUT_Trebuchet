@@ -1,0 +1,17 @@
+Se juega con la barra espaciadora
+Pulsar para empezar a mover
+Volver a pulsar para disparar (solo si está girando hacia la derecha)
+Se muestra la barra de Fuerza: Volver a pulsar para seleccionar velocidad
+Una vez disparado, esperar a que termine el movimiento
+Volver a pulsar para reiniciar
+
+Importante: Es posible que el juego funcione muy lento (o muy rápido),
+del número de frames
+
+PULSA LA BARRA ESPACIADORA PARA EMPEZAR
+
+
+
+
+
+
